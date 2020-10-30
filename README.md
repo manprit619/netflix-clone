@@ -1,3 +1,5 @@
+Don't hesitate to pull down the code and play around.
+
 Please do check the website below:
 
 https://netflix-clone-manprit619.web.app/
